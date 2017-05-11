@@ -1,5 +1,5 @@
 <?php
-require_once 'response.php';
+require_once __DIR__ . '/response.php';
 class Curl {
     
     public $follow_redirects = true;
