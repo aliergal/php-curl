@@ -2,12 +2,12 @@
 
 A basic CURL wrapper for PHP (see http://php.net/curl for more information about the libcurl extension for PHP)
 
-* [Initialise](https://github.com/aliergal/simple-curl#initialise)
-* [GET Method](https://github.com/aliergal/simple-curl#get-method)
-* [GET Method with Query](https://github.com/aliergal/simple-curl#get-method-with-query)
-* [Post Method](https://github.com/aliergal/simple-curl#post-method)
-* [Put Method](https://github.com/aliergal/simple-curl#put-method)
-* [Tests](https://github.com/aliergal/simple-curl#tests)
+[Initialise](https://github.com/aliergal/simple-curl#initialise) <br>
+[GET Method](https://github.com/aliergal/simple-curl#get-method) <br>
+[GET Method with Query](https://github.com/aliergal/simple-curl#get-method-with-query) <br>
+[Post Method](https://github.com/aliergal/simple-curl#post-method) <br>
+[Put Method](https://github.com/aliergal/simple-curl#put-method) <br>
+[Tests](https://github.com/aliergal/simple-curl#tests) <br>
 
 ### Initialise
 
