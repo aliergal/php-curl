@@ -42,7 +42,7 @@ $vars = [
   'body' => 'This is a sample body'
 ];
 $body = json_encode($vars); //If you want to send json object
-$response = $curl->post($vars);
+$response = $curl->put($vars);
 ```
 
 ### Output the response
